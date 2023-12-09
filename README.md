@@ -1,2 +1,0 @@
-# AcceptTermsOfUse
-Mediawiki extension
