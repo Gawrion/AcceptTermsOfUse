@@ -3,8 +3,7 @@ This is Mediawiki Extension that adds "Accept Terms of Use" checkbox to the regi
 It was written on Mediawiki 1.40.1.
 
 # Instalation
-Download directories and files. Place them in /extensions/ directory. Add in LocalSettings.php:
-<code>
+Download directories and files. Place them in /extensions/ directory. Add in LocalSettings.php:<code>
 wfLoadExtension( 'AcceptTermsOfUse' );
 #if u wont define this variable it will point to default legal notes of Mediawiki
 $wgAcceptTermsOfUsePage = '[[Project:TermsPage|Terms Name]]' ;
