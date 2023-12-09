@@ -1,8 +1,8 @@
 {
     "name": "AcceptTermsOfUse",
     "version": "0.0.1",
-    "author": ["[//rpedia.pl Gawrion]"],
-    "url": "https://rpedia.pl",
+    "author": ["[//rpedia.pl/w/Extension:AcceptTermsOfUse Gawrion]"],
+    "url": "https://rpedia.pl/w/Extension:AcceptTermsOfUse",
     "descriptionmsg": "description-message",
     "license-name": "GPL-2.0-or-later",
     "type": "other",
