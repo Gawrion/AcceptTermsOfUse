@@ -11,5 +11,5 @@ $wgAcceptTermsOfUsePage = '[[Project:TermsPage|Terms Name]]' ;
 Check on Special:Version page if extension is working. Check if registration page has new checkbox - test it.
 That's all folks!
 
-ps. in i18n u have translation for polish (only one language) - You can create another translations.
+ps. in i18n u have translation for polish (only one language) - You can create another translations. 
 
